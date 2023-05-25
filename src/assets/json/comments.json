@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "imageOfPerson":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1682937171/brdpitt_z3xnoj.jpg",
+        "comment": "When your home is perfect, every plant in place, every piece of furniture suits the space completely – you’ve completed a task.",
+        "nameOfPerson": "Brad Pitt",
+        "job": "American actor"
+    },
+    {
+        "id":2,
+        "imageOfPerson":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1682937171/angelina_kdce2e.jpg",
+        "comment": "We need objects to remind us of the commitments we’ve made. That carpet from Morocco reminds us of the impulsive, freedom-loving side of ourselves we’re in danger of losing touch with. Beautiful furniture gives us something to live up to. All designed objects are propaganda for a way of life.",
+        "nameOfPerson": "Angelina Jolie",
+        "job": "American actress"
+    },
+    {
+        "id":3,
+        "imageOfPerson":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1682937171/leo_t2kcxa.jpg",
+        "comment": "I consider that a man’s brain originally is like a little empty attic, and you have to stock it with such furniture as you choose.",
+        "nameOfPerson": "Leonardo DiCaprio",
+        "job": "American actor and producer"
+    }
+
+]

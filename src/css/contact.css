@@ -1,0 +1,98 @@
+.contact h1{
+    margin-bottom: 4rem;
+    font-size: 6.4rem;
+    color: #07484A;
+    font-weight: 700;
+}
+.contact .contact-qutu{
+    max-width: 1400px;
+    display: flex;
+    margin: 7rem auto;
+    padding: 1rem;
+    gap: 7rem;
+}
+.contact .contact-qutu .contact-text{
+    flex-basis: 50%;
+}
+
+.contact .contact-qutu .contact-text p{
+    font-size: 1.6rem;
+    color: rgb(81, 80, 80);
+    font-weight: 200;
+    text-align: justify;
+}
+.contact .contact-qutu form{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+    box-shadow: 0px 0px 1.5rem #07484A; 
+    padding: 4rem 5rem;
+    flex: 1;
+    border-radius: 3rem;
+}
+
+.contact .contact-qutu form input,textarea{
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 1rem;
+    outline: none;
+    border: 2px solid #514e4e57;
+}
+.contact .filiallar{
+    display: flex;
+    min-height: 60vh;
+    align-items: center;
+    justify-content: space-around;
+    background: url(../assets/images/Contact-parallax-img.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.contact .filiallar .qutu{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.contact .filiallar .qutu h5{
+    color: #fff;
+    font-size: 5rem;
+    font-weight: 600;
+    font-family: 'Playfair Display SC', serif;
+}
+.contact .filiallar .qutu a{
+    font-size: 2rem;
+    color: #fff;
+}
+@media(max-width:1240px){
+    .contact .filiallar{
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media(max-width:881px){
+    .contact .contact-qutu{
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
+
+@media(max-width:768px){
+    .contact h1{
+        font-size: 3.5rem;
+    }
+    .contact .filiallar .qutu h5{
+        color: #fff;
+        font-size: 3rem;
+        font-weight: 600;
+        font-family: 'Playfair Display SC', serif;
+    }
+    .contact .filiallar .qutu a{
+        font-size: 1.3rem;
+        color: #fff;
+    }
+}

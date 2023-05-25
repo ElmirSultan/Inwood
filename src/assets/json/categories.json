@@ -1,0 +1,484 @@
+{
+    "bedroom":[
+        {   "id":43,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405049/Piece-Bedroom_qmapp5.jpg",
+            "itemSet":"Bedroom Set",
+            "price":10000,
+            "amount":1
+        },
+        {
+            "id":44,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405052/bdr_aroc8w.jpg",
+            "itemSet":"Bedroom Set",
+            "price":12000,
+            "amount":1
+        },
+        {
+            "id":45,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405053/bdr1_huxtp2.jpg",
+            "itemSet":"Bedroom Set",
+            "price": 8000,
+            "amount":1
+        },
+        {
+            "id":46,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405053/bedroom_zalfds.jpg",
+            "itemSet":"Bedroom Set",
+            "price": 17000,
+            "amount":1
+        },
+        {
+            "id":47,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405054/Contemporary-students-bedroom-with-great-study-room-ideas_vimjl1.jpg",
+            "itemSet":"Bedroom Set",
+            "price": 6000,
+            "amount":1
+        },
+        {
+            "id":48,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405060/bedroom7-large_vktttz.png",
+            "itemSet":"Bedroom Set",
+            "price": 7500,
+            "amount":1
+        }
+    ],
+    "diningroom":[
+        {
+            "id":49,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405061/modern-dining-tablee_cifnmm.jpg",
+            "itemSet":"Dining Room Set",
+            "price": 16000,
+            "amount":1
+        },
+        {
+            "id":50,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405066/diningroom_q0zz7k.jpg",
+            "itemSet":"Dining Room Set",
+            "price": 10000,
+            "amount":1
+        },
+        {
+            "id":51,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405054/dining-room_x0y9fj.png",
+            "itemSet":"Dining Room Set",
+            "price": 13000,
+            "amount":1
+        },
+        {
+            "id":52,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405054/dnroom_clcl7s.jpg",
+            "itemSet":"Dining Room Set",
+            "price": 16000,
+            "amount":1
+        },
+        {
+            "id":53,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405054/droom2_gnrtnd.jpg",
+            "itemSet":"Dining Room Set",
+            "price": 9000,
+            "amount":1
+        },
+        {
+            "id":54,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405053/Aspendale_ig1h2x.png",
+            "itemSet":"Dining Room Set",
+            "price": 16200,
+            "amount":1
+        }
+    ],
+    "meetingroom":[
+        {
+            "id":55,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405059/maxresdefault_jnqjjh.jpg",
+            "itemSet":"Meeting Room Set",
+            "price": 20000,
+            "amount":1
+        },
+        {
+            "id":56,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405059/meetingrrom_pfcxj9.jpg",
+            "itemSet":"Meeting Room Set",
+            "price": 18000,
+            "amount":1
+        },
+        {
+            "id":57,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405054/Conference2_ffzni2.jpg",
+            "itemSet":"Meeting Room Set",
+            "price": 18500,
+            "amount":1
+        },
+        {
+            "id":58,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405049/mrrom_pnh7dm.jpg",
+            "itemSet":"Meeting Room Set",
+            "price": 13000,
+            "amount":1
+        }
+    ],
+    "kitchen":[
+        {
+            "id":59,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405051/11572-15498696_uqexxr.jpg",
+            "itemSet":"Kitchen Set",
+            "price": 22000,
+            "amount":1
+        },
+        {
+            "id":60,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405049/TR-J_Kitchen_WingLine_L_Atira_Hauptansicht_A3_FINAL_2019_04__hbbfb8.jpg",
+            "itemSet":"Kitchen Set",
+            "price": 25000,
+            "amount":1
+        },
+        {
+            "id":61,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405048/TR-J_Kitchen_WingLine_L_Atira_Detailansicht_LegaMove_A5_FINA_psvh73.jpg",
+            "itemSet":"Kitchen Set",
+            "price": 18000,
+            "amount":1
+        },
+        {
+            "id":62,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405052/1575964680.1551362728.9-KALVIN-compressor_qt3okv.jpg",
+            "itemSet":"Kitchen Set",
+            "price": 34000,
+            "amount":1
+        },
+        {
+            "id":63,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405052/1573133808.QORDON-metbex-compressor_b1jtqr.jpg",
+            "itemSet":"Kitchen Set",
+            "price": 32000,
+            "amount":1
+        },
+        {
+            "id":64,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405052/150360772950815030060134051503000251527kuk3_r5d3py.jpg",
+            "itemSet":"Kitchen Set",
+            "price": 22000,
+            "amount":1
+        },
+        {
+            "id":65,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405054/Custom-Design-Luxury-Design-High-Gloss-Modern-Kitchen-Cabinets-Kitchen-Furniture_ujwf4a.jpg",
+            "itemSet":"Kitchen Set",
+            "price": 35000,
+            "amount":1
+        },
+        {
+            "id":66,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405056/kitchen_udwltl.jpg",
+            "itemSet":"Kitchen Set",
+            "price": 33000,
+            "amount":1
+        },
+        {
+            "id":67,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405060/modern-kitchens-metropolis-11696_kdjolp.jpg",
+            "itemSet":"Kitchen Set",
+            "price": 31000,
+            "amount":1
+        }
+    ],
+    "laundryroom":[
+        {
+            "id":68,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405052/7617151d-235b-4642-8d81-db00e8de37a610_qmjra7.jpg",
+            "itemSet":"Laundry Room Set",
+            "price": 22000,
+            "amount":1
+        },
+        {
+            "id":69,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405051/4824-Sonoma-Road-photo-0048_soctiv.jpg",
+            "itemSet":"Laundry Room Set",
+            "price": 34000,
+            "amount":1
+        },
+        {
+            "id":70,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405050/nylon-63fe7038c9f70_yhgub5.png",
+            "itemSet":"Laundry Room Set",
+            "price": 17800,
+            "amount":1
+        },
+        {
+            "id":71,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405049/oakImage-1648153854654-videoSixteenByNineJumbo1600_pozdpf.jpg",
+            "itemSet":"Laundry Room Set",
+            "price": 18900,
+            "amount":1
+        },
+        {
+            "id":72,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405049/suite-vintage-loundry-06-200515-pro-b-arcit18_ufvns5.jpg",
+            "itemSet":"Laundry Room Set",
+            "price": 22450,
+            "amount":1
+        }
+    ],
+    "hall":[
+        {
+            "id":73,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405048/modern-living-room-black-white-1656377050_xlrpwq.jpg",
+            "itemSet":"Hall Set",
+            "price": 15000,
+            "amount":1
+        },
+        {
+            "id":74,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405048/modern-living-room-furniture-design-ipc500_se6euj.jpg",
+            "itemSet":"Hall Set",
+            "price": 15800,
+            "amount":1
+        },
+        {
+            "id":75,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405050/sofa-and-dining-table-modern-hall-furniture-design_ajve2n.jpg",
+            "itemSet":"Hall Set",
+            "price": 19000,
+            "amount":1
+        },
+        {
+            "id":76,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405051/0101777_living-room-furniture_600_klpmod.jpg",
+            "itemSet":"Hall Set",
+            "price": 22000,
+            "amount":1
+        },
+        {
+            "id":77,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405051/199d0532ed769eb7099246d63e77b397_aycxkc.jpg",
+            "itemSet":"Hall Set",
+            "price": 23000,
+            "amount":1
+        },
+        {
+            "id":78,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405058/livingroomspecialset_wjh6j0.jpg",
+            "itemSet":"Hall Set",
+            "price": 35000,
+            "amount":1
+        },
+        {
+            "id":79,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405061/dw_nav_new-sofas-_-armchairs_jxuvs1.jpg",
+            "itemSet":"Hall Set",
+            "price": 26300,
+            "amount":1
+        }
+    ],
+    "gameroom":[
+        {
+            "id":80,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405056/hero_gameroom_y1fvid.jpg",
+            "itemSet":"Game Room Set",
+            "price": 30000,
+            "amount":1
+        },
+        {
+            "id":81,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405055/img_6178fffd0fb0d_cb1pzp.jpg",
+            "itemSet":"Game Room Set",
+            "price": 22000,
+            "amount":1
+        },
+        {
+            "id":82,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405053/benjamin-moore-old-soul-basement-gaming-room-eos-swivel-chairs_pkuotb.jpg",
+            "itemSet":"Game Room Set",
+            "price": 27000,
+            "amount":1
+        },
+        {
+            "id":83,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405051/71Hbf2ck8hL._AC_UF894_1000_QL80__mgjzox.jpg",
+            "itemSet":"Game Room Set",
+            "price": 23000,
+            "amount":1
+        },
+        {
+            "id":84,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405051/50-awesome-video-game-room-decoration-ideas-interiorsherpa_wosxcz.jpg",
+            "itemSet":"Game Room Set",
+            "price": 28000,
+            "amount":1
+        },
+        {
+            "id":85,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405050/RESIZED-multiplayer-video-games-Gaming-room-by-Amy-Storm-long-viewcredit-Amy-Storm_psyznf.jpg",
+            "itemSet":"Game Room Set",
+            "price": 24000,
+            "amount":1
+        },
+        {
+            "id":88,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405049/Vaulted-ceiling-game-room_ribgag.jpg",
+            "itemSet":"Game Room Set",
+            "price": 15000,
+            "amount":1
+        },
+        {
+            "id":89,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405054/baron_game_room-1024x711_ddiw6j.jpg",
+            "itemSet":"Game Room Set",
+            "price": 19700,
+            "amount":1
+        }
+    ],
+    "cinemaroom":[
+        {
+            "id":90,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405052/1405437485546_hcjcrc.jpg",
+            "itemSet":"Cinema Room Set",
+            "price": 33000,
+            "amount":1
+        },
+        {
+            "id":91,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405054/coleccion-alexandra-ambience-bostonpure_zb7ccj.jpg",
+            "itemSet":"Cinema Room Set",
+            "price": 35000,
+            "amount":1
+        },
+        {
+            "id":92,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405055/Gledstone-20-1024x683_uaaakf.jpg",
+            "itemSet":"Cinema Room Set",
+            "price": 36000,
+            "amount":1
+        },
+        {
+            "id":93,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405055/family-cinema-room-new-wave-av-img_fdc1eca005d71adf_9-3477-1-ef14b1d_j7kkpx.jpg",
+            "itemSet":"Cinema Room Set",
+            "price": 27000,
+            "amount":1
+        },
+        {
+            "id":94,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405057/Luxury-Home-Cinema-Abuja-Seats_q0sywn.png",
+            "itemSet":"Cinema Room Set",
+            "price": 28500,
+            "amount":1
+        },
+        {
+            "id":95,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405062/H6098A_dwta1k.jpg",
+            "itemSet":"Cinema Room Set",
+            "price": 26000,
+            "amount":1
+        }
+    ],
+
+    "studyroom":[
+        {
+            "id":96,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405056/large-study-room-can-accomodate-two_qjkegc.jpg",
+            "itemSet":"Study Room Set",
+            "price": 12000,
+            "amount":1
+        },
+        {
+            "id":97,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405054/Contemporary-students-bedroom-with-great-study-room-ideas_vimjl1.jpg",
+            "itemSet":"Study Room Set",
+            "price": 13000,
+            "amount":1
+        },
+        {
+            "id":98,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405051/study-room-design-with-long-shared-surface_jpdxe8.jpg",
+            "itemSet":"Study Room Set",
+            "price": 16000,
+            "amount":1
+        },
+        {
+            "id":99,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405050/10-Ingenious-Yet-Functional-HDB-Study-Room-Designs-StyleMag_vercuj.jpg",
+            "itemSet":"Study Room Set",
+            "price": 18000,
+            "amount":1
+        },
+        {
+            "id":100,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405049/workspace_z4zbgo.jpg",
+            "itemSet":"Study Room Set",
+            "price": 12300,
+            "amount":1
+        },
+        {
+            "id":101,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405049/Modular-study-room-ideas-_vf0ydo.jpg",
+            "itemSet":"Study Room Set",
+            "price": 16000,
+            "amount":1
+        },
+        {
+            "id":102,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405048/thumbnail_studyroom-design_auw4me.jpg",
+            "itemSet":"Study Room Set",
+            "price": 18200,
+            "amount":1
+        }
+    ],
+    "bathroom":[
+        {
+            "id":103,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405059/Mallard-Mali-Oak-linear-bathroom-furniture-ret_irrlia.jpg",
+            "itemSet":"Bathroom Set",
+            "price": 18200,
+            "amount":1
+        },
+        {
+            "id":104,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405056/joy-uno_o1kuqk.jpg",
+            "itemSet":"Bathroom Set",
+            "price": 20200,
+            "amount":1
+        },
+        {
+            "id":105,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405055/fitted-furniture-header-1500x771_prepbe.jpg",
+            "itemSet":"Bathroom Set",
+            "price": 23000,
+            "amount":1
+        },
+        {
+            "id":106,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405055/Frame_Linea_Coffee_Bean-057_DxO_FLAT-1700x950_fxhypc.jpg",
+            "itemSet":"Bathroom Set",
+            "price": 24500,
+            "amount":1
+        },
+        {
+            "id":107,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405055/Gallio-Supermatt-Marine-Blue-1-1024x724_aj52lo.jpg",
+            "itemSet":"Bathroom Set",
+            "price": 15200,
+            "amount":1
+        },
+        {
+            "id":108,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405052/15875394128770_jw9spi.jpg",
+            "itemSet":"Bathroom Set",
+            "price": 16000,
+            "amount":1
+        },
+        {
+            "id":109,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405051/3_14185a5cfc6d9e1df7756f84d7059555_ck8mh1.jpg",
+            "itemSet":"Bathroom Set",
+            "price": 17500,
+            "amount":1
+        },
+        {
+            "id":110,
+            "imageOfProduct":"https://res.cloudinary.com/dxhdjso8d/image/upload/v1684405050/Solid-Oak-Painted-Airforce-Blue-1024x724_wvb8l8.jpg",
+            "itemSet":"Bathroom Set",
+            "price": 20000,
+            "amount":1
+        }
+    ]
+}

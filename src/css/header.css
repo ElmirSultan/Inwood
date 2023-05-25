@@ -1,0 +1,119 @@
+header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: inherit;
+    position: relative;
+}
+header nav .nav-links{
+    display: flex;
+    gap: 2rem;
+}
+header nav .nav-links a{
+    font-size: 2rem;
+    color: #07484A;
+}
+header nav .logo{
+    cursor: pointer;
+}
+.active{
+    font-weight: 500;
+    border-bottom: 2px solid #07484A;
+}
+header nav .icons{
+    display: flex;
+    gap: 2rem;
+}
+header nav .icons i{
+    font-size: 2rem;
+    color: #07484A;
+}
+header nav .my-basket{
+    position: relative;
+    cursor: pointer;
+}
+header nav .my-basket span{
+    position: absolute;
+    left: 1.3rem;
+    bottom: 0;
+    background-color: rgb(176, 26, 26);
+    padding:0 0.5rem;
+    color: #fff;
+    font-weight: 600;
+    font-size: 1.1rem;
+    border-radius: 1rem;
+}
+header nav .bars-icon{
+    display: none;
+    font-size: 2rem;
+    color: #07484A;
+    cursor: pointer;
+    padding: 1rem;
+}
+
+
+.overlay{
+    overflow-x: hidden;
+    z-index: 99;
+    position: fixed;
+    left: 0;
+    top: 0;
+    display: flex;
+    font-size: 1.6rem;
+    height: 0;
+    width: 0;
+    transition: width 1s ease-in-out;
+  }
+  .aktiv{
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+    min-height: 100vh;
+    top: 0;
+    left: 0;
+    transition: width 1s ease-in-out;
+    
+  }
+  .overlay .nav-links{
+    padding-left: 5rem;
+    display: flex;
+    flex-direction: column;
+  }
+  .overlay a{
+    font-size: 2rem;
+    text-decoration: none;
+    color: #07484A;    
+    font-weight: 600;
+    margin-top: 2rem;
+    transition: all .5s ease-in-out;
+  }
+  .overlay a:hover{
+    background-color: #fff;
+    font-size: 2.5rem;
+    transform: translateX(12px);
+  }
+  .windowclose{
+    pointer-events: none !important;
+  }
+  .uparrow{
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+  }
+
+@media(max-width:900px){
+    header nav .nav-links,header nav .bi.bi-person-circle{
+        display: none;
+    }
+    header nav .bars-icon{
+        display: block;
+    }
+    header nav .bars-icon{
+        position: absolute;
+        right: 4rem;
+    }
+}

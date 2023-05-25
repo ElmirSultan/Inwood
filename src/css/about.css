@@ -1,0 +1,77 @@
+.about-us{
+    width: 100%;
+}
+.about-us h1{
+    text-align: center;
+    font-size: 6.4rem;
+    color: #07484A;
+    font-weight: 700;
+}
+.about-us .picture img{
+    width: 100%;
+}
+.about-us .achievements{
+    display: flex;
+    padding: 2rem 5rem;
+    align-items: center;
+    justify-content: space-between;
+}
+.about-us .achievements .first-ach h3{
+    font-size: 5rem;
+    color: #0d5e61;
+}
+.about-us .achievements .first-ach p{
+    font-size: 1.6rem;
+    color: #535353;
+    font-weight: 200;
+    transform: translateX(4rem);
+}
+
+.about-us .achievements h5{
+    font-size: 3rem;
+    color: #0d5e61;
+}
+.about-us .achievements ul li{
+    font-size: 1.6rem;
+    color: #535353;
+    font-weight: 200;
+    list-style-position: inside;
+    list-style-type: square;
+}
+@media(max-width: 1250px) {
+    .about-us .achievements {
+        padding: 2rem;
+        flex-direction: column;
+        align-items: flex-start;
+      }
+}
+@media only screen and (max-width: 768px) {
+    .about-us .achievements {
+      padding: 2rem;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .about-us .achievements .first-ach p {
+      transform: none;
+    }
+  }
+  
+  /* Mobile styles */
+  @media only screen and (max-width: 480px) {
+    .about-us h1 {
+      font-size: 4rem;
+    }
+  
+    .about-us .achievements {
+      padding: 1rem;
+    }
+  
+    .about-us .achievements .first-ach h3 {
+      font-size: 3rem;
+    }
+  
+    .about-us .achievements h5 {
+      font-size: 2rem;
+    }
+  }

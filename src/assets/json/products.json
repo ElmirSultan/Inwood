@@ -1,0 +1,316 @@
+{
+
+    "chairs":[
+        
+        {
+            "id":1,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682954747/chair4_ksutmv.svg",
+            "price": 78,
+            "itemSet":"Chair",
+            "amount":1
+        },
+        {
+            "id":2,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682954747/chair3_eojk7k.svg",
+            "price": 82,
+            "itemSet":"Chair",
+            "amount":1
+        },
+        {
+            "id":3,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682954748/chair2_jfqrfw.svg",
+            "price":106,
+            "itemSet":"Chair",
+            "amount":1
+        },
+        {
+            "id":4,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682954751/chair1_mhv2ob.svg",
+            "price":93,
+            "itemSet":"Chair",
+            "amount":1
+        },
+        {
+            "id":5,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682955545/pngimg.com_-_chair_PNG6908_kga8ed.png",
+            "price":99,
+            "itemSet":"Chair",
+            "amount":1
+        },
+        {
+            "id":6,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682955800/286-2868832_modern-chair-png-transparent-background-png-download-removebg-preview_iexvm8.png",
+            "price":111,
+            "itemSet":"Chair",
+            "amount":1
+        },
+        {
+            "id":7,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682955545/Accent-Chair-Download-PNG-Image_pgh2rr.png",
+            "price":65,
+            "itemSet":"Chair",
+            "amount":1
+        },
+        {
+            "id":8,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682955546/chair-png-transparent-chair-images-pluspng-7_ajtmya.png",
+            "price":125,
+            "itemSet":"Chair",
+            "amount":1
+        },
+        {
+            "id":9,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682955546/Office-Chair-Transparent-Background_btppjh.png",
+            "price":88,
+            "itemSet":"Chair",
+            "amount":1
+        }
+    ],
+
+    "tables":[
+        {
+            "id":10,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682956780/dining-table-png-transparent-2_bluduj.png",
+            "price":250,
+            "itemSet":"Table",
+            "amount":1
+        },
+        {
+            "id":11,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682956780/furniture-ipindiasuppliers-indian-manufacturers-exporters-32_ijn1uj.png",
+            "price":360,
+            "itemSet":"Table",
+            "amount":1
+        },
+        {
+            "id":12,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682956780/Dining-Set-PNG-Transparent-Picture_j8z2is.png",
+            "price":420,
+            "itemSet":"Table",
+            "amount":1
+        },
+        {
+            "id":13,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682956781/Table-Download-PNG_i3ctts.png",
+            "price":378,
+            "itemSet":"Table",
+            "amount":1
+        },
+        {
+            "id":14,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682956780/900-9008467_dining-set-transparent-background-4-chair-dining-table_hwrywx.png",
+            "price":750,
+            "itemSet":"Table",
+            "amount":1
+        },
+        {
+            "id":15,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682957049/dining-table-png-transparent-2_xgyuyg.png",
+            "price":720,
+            "itemSet":"Table",
+            "amount":1
+        },
+        {
+            "id":16,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682957049/Dining-Set-PNG-Transparent-Picture_bt7s9p.png",
+            "price":412,
+            "itemSet":"Table",
+            "amount":1
+        },
+        {
+            "id":17,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682957049/furniture-ipindiasuppliers-indian-manufacturers-exporters-32_e9rytj.png",
+            "price":333,
+            "itemSet":"Table",
+            "amount":1
+        },
+        {
+            "id":18,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682957623/Dining-Table-PNG-Pic-removebg-preview_tp753n.png",
+            "price":455,
+            "itemSet":"Table",
+            "amount":1
+        }
+    ],
+
+    "sofa":[
+        {
+            "id":19,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682957982/Sleeper-Sofa-PNG-Transparent-Image_jjrja0.png",
+            "price":1200,
+            "itemSet":"Sofa",
+            "amount":1
+        },
+        {
+            "id":20,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682957982/Sleeper-Sofa-PNG-Clipart_lwzujo.png",
+            "price":1500,
+            "itemSet":"Sofa",
+            "amount":1
+        },
+        {
+            "id":21,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682957982/1009-10099792_transparent-sofa-cover-grey-couch-png_ir7huz.png",
+            "price":1600,
+            "itemSet":"Sofa",
+            "amount":1
+        },
+        {
+            "id":22,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682957983/Sleeper-Sofa-PNG-Transparent_x4i1ia.png",
+            "price":2200,
+            "itemSet":"Sofa",
+            "amount":1
+        },
+        {
+            "id":23,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682957984/Sleeper-Sofa-Transparent-Images-PNG_qg9sep.png",
+            "price":2300,
+            "itemSet":"Sofa",
+            "amount":1
+        },
+        {
+            "id":24,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682957986/pngimg.com_-_sofa_PNG6912_oh6leu.png",
+            "price":2500,
+            "itemSet":"Sofa",
+            "amount":1
+        }
+    ],
+
+    "closet": [
+        {
+            "id":25,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682959311/purepng.com-cupboardcupboardpressa-cabinetdoor-and-shelves-1701527922256kqcpf_rdx7en.png",
+            "price":980,
+            "itemSet":"Closet",
+            "amount":1
+        },
+        {
+            "id":26,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682959312/purepng.com-cupboardcupboardpressa-cabinetdoor-and-shelves-17015279224349uzvb_itteaz.png",
+            "price":880,
+            "itemSet":"Closet",
+            "amount":1
+        },
+        {
+            "id":27,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682959312/pngimg.com_-_cupboard_closet_PNG16753_qelqhs.png",
+            "price":990,
+            "itemSet":"Closet",
+            "amount":1
+        },
+        {
+            "id":28,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682959312/Closet-PNG-Pic_eauw6z.png",
+            "price":666,
+            "itemSet":"Closet",
+            "amount":1
+        },
+        {
+            "id":29,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682959312/Closet-No-Background_cysc65.png",
+            "price":700,
+            "itemSet":"Closet",
+            "amount":1
+        },
+        {
+            "id":30,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682959313/pngimg.com_-_cupboard_closet_PNG16767_lp2czd.png",
+            "price":850,
+            "itemSet":"Closet",
+            "amount":1
+        }
+    ],
+
+    "lamp":[
+        {
+            "id":31,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682959938/lamp-vintage-table-transparent-png-stick-0_ubf9av.png",
+            "price":55,
+            "itemSet":"Lamp",
+            "amount":1
+        },
+        {
+            "id":32,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682959938/download-lamp-download-png-png-image-pngimg-6_rzjuxk.png",
+            "price":45,
+            "itemSet":"Lamp",
+            "amount":1
+        },
+        {
+            "id":33,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682960657/Lamp-No-Background_zsspcb.png",
+            "price":35,
+            "itemSet":"Lamp",
+            "amount":1
+        },
+        {
+            "id":34,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682959938/Random-Floor-Lamp-II-Medium-Black-No-Background-02_jxix97.png",
+            "price":45,
+            "itemSet":"Lamp",
+            "amount":1
+        },
+        {
+            "id":35,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682959939/oil-lamp-transparent-download-lamp-electric-27_sx6llb.png",
+            "price":30,
+            "itemSet":"Lamp",
+            "amount":1
+        },
+        {
+            "id":36,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682960512/lamp-light-for-room-transparent-background-free-png_mzrslb.png",
+            "price":66,
+            "itemSet":"Lamp",
+            "amount":1
+        }
+    ],
+
+    "bookshelf":[
+        {
+            "id":37,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682962904/pngtree-library-bookshelf-png-image_6228066_tvkbql.png",
+            "price":560,
+            "itemSet":"Bookshelf",
+            "amount":1
+        },
+        {
+            "id":38,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682962904/207-2075700_storage-bookshelf-with-chequered-shelves-contemporary-wood-bookshelf_epmx1d.png",
+            "price":550,
+            "itemSet":"Bookshelf",
+            "amount":1
+        },
+        {
+            "id":39,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682962904/Product-Bookshelf-Brookside-Bookcase-No-Background-1-W1600-1024x682_w4rtze.png",
+            "price":1200,
+            "itemSet":"Bookshelf",
+            "amount":1
+        },
+        {
+            "id":40,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682962904/Wood-Shelves-Transparent_x1jdpk.png",
+            "price":1500,
+            "itemSet":"Bookshelf",
+            "amount":1
+        },
+        {
+            "id":41,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682962905/Bookshelf-Wood-PNG-Pic_euynfi.png",
+            "price":1230,
+            "itemSet":"Bookshelf",
+            "amount":1
+        },
+        {
+            "id":42,
+            "imageOfProduct": "https://res.cloudinary.com/dxhdjso8d/image/upload/v1682962905/Bookshelf-Wall-PNG_pv7hqx.png",
+            "price":1300,
+            "itemSet":"Bookshelf",
+            "amount":1
+        }
+    ]
+   
+}
