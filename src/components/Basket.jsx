@@ -1,6 +1,5 @@
 import React, { useRef, useState, useEffect } from 'react';
 import "../css/sepet.css";
-import { GrBasket } from "react-icons/gr"
 
 
 const Basket = ({ closeBasket, cart, setCart, handleChange, toggleBasket }) => {
@@ -29,7 +28,7 @@ const Basket = ({ closeBasket, cart, setCart, handleChange, toggleBasket }) => {
   return (
     <div className='benim-sepet' ref={benimSepett}>
       <div className='contents'>
-        <h1>My Basket {<GrBasket />}</h1>
+        <h1>My Basket</h1>
         <i className="bi bi-x-circle closeBasket" onClick={toggleBasket}></i>
         <div className='basket-box'>
           {
@@ -37,7 +36,7 @@ const Basket = ({ closeBasket, cart, setCart, handleChange, toggleBasket }) => {
               <div className="cart-box" key={item.id}>
                 <div className="cart-img">
                   <div className='cart-img-name'>
-                    <img src={item.imageOfProduct} />
+                    <img src={item.imageOfProduct} alt='imageofProduct'/>
                     <p>{item.itemSet}</p>
                   </div>
 

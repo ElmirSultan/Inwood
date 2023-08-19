@@ -14,12 +14,14 @@ const Allproducts = ({handleClick}) => {
             <h1>Our Products</h1>
             <div className="productss">
                 <div className="left-productss">
+                    <div className="left-product-names">
                     <p onClick={() => productSec("chair")} className={`${product === "chair" ? "klik" : ""}`}>Chair</p>
                     <p onClick={() => productSec("table")} className={`${product === "table" ? "klik" : ""}`}>Table</p>
                     <p onClick={() => productSec("sofa")} className={`${product === "sofa" ? "klik" : ""}`}>Sofa</p>
                     <p onClick={() => productSec("closet")} className={`${product === "closet" ? "klik" : ""}`}>Closet</p>
                     <p onClick={() => productSec("lamp")} className={`${product === "lamp" ? "klik" : ""}`}>Lamp</p>
                     <p onClick={() => productSec("bookshelf")} className={`${product === "bookshelf" ? "klik" : ""}`}>Bookshelf</p>
+                    </div>
                 </div>
                 <div className="right-productss">
                     

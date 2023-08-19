@@ -17,3 +17,20 @@
 .testimonials .swiper-button-next{
     color: #07484A;
 }
+
+@media(max-width:768px){
+    .testimonials h1{
+        font-size: 3rem;
+    }
+    .testimonials .p-text{
+        font-size: 1.6rem;
+    }
+}
+@media(max-width:768px){
+    .testimonials h1{
+        font-size: 2.5rem;
+    }
+    .testimonials .p-text{
+        font-size: 1.3rem;
+    }
+}

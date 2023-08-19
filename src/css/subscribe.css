@@ -90,3 +90,31 @@
       padding: 2rem 0;
     }
   }
+  @media (max-width:768px) {
+    .subscribe .subscribe-boxes .right-subscribe h1{
+      font-size: 3rem;
+      color: #07484A;
+      font-weight: 700;
+  }
+  .subscribe .subscribe-boxes .right-subscribe p{
+      color: #07484A;
+      font-size: 1.5rem;
+  }
+  .subscribe .subscribe-boxes .right-subscribe form input{
+    font-size: 1.5rem;
+}
+  }
+  @media (max-width:500px) {
+    .subscribe .subscribe-boxes .right-subscribe h1{
+      font-size: 2.5rem;
+      color: #07484A;
+      font-weight: 700;
+  }
+  .subscribe .subscribe-boxes .right-subscribe p{
+      color: #07484A;
+      font-size: 1.3rem;
+  }
+  .subscribe .subscribe-boxes .right-subscribe form input{
+    font-size: 1.3rem;
+}
+  }

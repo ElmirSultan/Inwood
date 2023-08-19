@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import './App.css';
 import Header from './components/Header';
 import Home from './components/Home';
@@ -11,6 +11,7 @@ import About from './components/About';
 import Contact from './components/Contact';
 import Allcategories from './components/Allcategories';
 import Basket from './components/Basket';
+import { MutatingDots } from 'react-loader-spinner';
 
 AOS.init();
 
@@ -53,25 +54,53 @@ function App() {
     setIsBasketOpen(!isBasketOpen);
   };
 
+  const [loading, setLoading] = useState(false)
+
+  useEffect(() => {
+    setLoading(true)
+    setTimeout(() => { 
+      setLoading(false)},2500)
+  }, [])
+
+
   return (
     <div className="App">
-      <BrowserRouter>
-        <Header size={cart.length}  toggleBasket={toggleBasket} /> 
-        <Routes>
-          <Route path='/' element={<Home />} />
-          <Route path='/products' element={<Allproducts handleClick={handleClick} />} />
-          <Route path='/aboutus' element={<About />} />
-          <Route path='/contactus' element={<Contact />} />
-          <Route path='/categories' element={<Allcategories handleClick={handleClick} />} />
-        </Routes>
-        <Footer />
-      </BrowserRouter>
+      {
+        loading ?
+          <MutatingDots
+            height="100"
+            width="100"
+            color="#07484A"
+            secondaryColor='#07484A'
+            radius='12.5'
+            ariaLabel="mutating-dots-loading"
+            wrapperStyle={{}}
+            wrapperClass=""
+            visible={true}
+          /> :
 
-      {warning && <div className='warning'>Item is already added to your cart</div>}
+          <div className='pages'>
+          <BrowserRouter>
+            <Header size={cart.length} toggleBasket={toggleBasket} />
+            <Routes>
+              <Route path='/' element={<Home />} />
+              <Route path='/products' element={<Allproducts handleClick={handleClick} />} />
+              <Route path='/aboutus' element={<About />} />
+              <Route path='/contactus' element={<Contact />} />
+              <Route path='/categories' element={<Allcategories handleClick={handleClick} />} />
+            </Routes>
+            <Footer />
+          </BrowserRouter>
+  
+          {warning && <div className='warning'>Item is already added to your cart</div>}
+  
+          {isBasketOpen && (
+            <Basket cart={cart} setCart={setCart} handleChange={handleChange} toggleBasket={toggleBasket} />
+          )}
+        </div>
 
-      {isBasketOpen && ( 
-        <Basket cart={cart} setCart={setCart} handleChange={handleChange} toggleBasket={toggleBasket} />
-      )}
+      }
+    
     </div>
   );
 }

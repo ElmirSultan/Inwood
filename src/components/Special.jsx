@@ -5,6 +5,7 @@ import livingRoomSet from "../assets/images/livingroomspecialset.jpg"
 import livroom from "../assets/images/lvrroom.jpg"
 
 import "../css/special.css"
+import { Link } from 'react-router-dom'
 const Special = () => {
     
     const [paket, setPaket] = useState("paket1")
@@ -37,7 +38,7 @@ const Special = () => {
                                 </div>
                                 <p className="price-p">$229.99</p>
                             </div>
-                            <button>Add to cart <i className="bi bi-cart-fill"></i></button>
+                            
                         </div>
                     </div>}
 
@@ -58,7 +59,7 @@ const Special = () => {
                                     </div>
                                     <p className="price-p">$359.99</p>
                                 </div>
-                                <button>Add to cart <i className="bi bi-cart-fill"></i></button>
+                                
                             </div>
                         </div>
                     }
@@ -80,7 +81,7 @@ const Special = () => {
                                     </div>
                                     <p className="price-p">$423.99</p>
                                 </div>
-                                <button>Add to cart <i className="bi bi-cart-fill"></i></button>
+                                
                             </div>
                         </div>
                     }
@@ -108,7 +109,7 @@ const Special = () => {
                                 <i className="bi bi-star-fill"></i>
                                 <i className="bi bi-star-fill"></i>
                             </div>
-                            <a href="#">See more...</a>
+                            <Link>See more...</Link>
                         </div>
                     </div>
 
@@ -128,7 +129,7 @@ const Special = () => {
                                 <i className="bi bi-star-fill"></i>
                                 <i className="bi bi-star-fill"></i>
                             </div>
-                            <a href="#">See more...</a>
+                            <Link>See more...</Link>
                         </div>
                     </div>
 
@@ -148,7 +149,7 @@ const Special = () => {
                                 <i className="bi bi-star-fill"></i>
                                 <i className="bi bi-star-fill"></i>
                             </div>
-                            <a href="#">See more...</a>
+                            <Link>See more...</Link>
                         </div>
                     </div>
                     

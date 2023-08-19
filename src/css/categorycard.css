@@ -15,6 +15,7 @@
 .category-card img{
     width: 100%;
     aspect-ratio: 4/4;
+    object-fit: cover;
     transition: all .5s ease-out;
 }
 .category-card .card-details{
@@ -43,11 +44,28 @@
 .category-card:hover img{
     transform: scale(1.1);
 }
-
+@media(max-width:1335px){
+    .category-card{
+        width: 25rem;
+        height: 25rem;
+    }
+    .category-card .card-details{
+        font-size: 1.3rem;
+    }
+}
 @media(max-width:768px){
     .category-card{
         width: 20rem;
         height: 20rem;
+    }
+    .category-card .card-details{
+        font-size: 1.3rem;
+    }
+}
+@media(max-width:500px){
+    .category-card{
+        width: 15rem;
+        height: 15rem;
     }
     .category-card .card-details{
         font-size: 1.3rem;

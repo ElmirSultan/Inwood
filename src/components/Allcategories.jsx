@@ -15,6 +15,7 @@ const Allcategories = ({handleClick}) => {
       <h1>Categories</h1>
       <div className="categ-box">
         <div className="left-side">
+          <div className="left-sidee-names">
           <p onClick={() => selectCateg("bedroom")} className={`${categ === "bedroom" ? "addaktiv" : ""}`}>Bedroom</p>
           <p onClick={() => selectCateg("diningroom")} className={`${categ === "diningroom" ? "addaktiv" : ""}`}>Dining Room</p>
           <p onClick={() => selectCateg("meetingroom")} className={`${categ === "meetingroom" ? "addaktiv" : ""}`}>Meeting Room</p>
@@ -25,6 +26,7 @@ const Allcategories = ({handleClick}) => {
           <p onClick={() => selectCateg("cinemaroom")} className={`${categ === "cinemaroom" ? "addaktiv" : ""}`}>Cinema Room</p>
           <p onClick={() => selectCateg("studyroom")} className={`${categ === "studyroom" ? "addaktiv" : ""}`}>Study Room</p>
           <p onClick={() => selectCateg("bathroom")} className={`${categ === "bathroom" ? "addaktiv" : ""}`}>Bathroom</p>
+          </div>
         </div>
         <div className="right-side">
           {categ === 'bedroom' &&

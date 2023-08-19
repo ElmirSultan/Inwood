@@ -5,6 +5,7 @@ html,body{
     padding: 0;
     font-size: 62.5%;
     font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
 }
 ::placeholder{
     font-family: 'Poppins', sans-serif;
@@ -25,3 +26,15 @@ h1{
 a{
     text-decoration: none;
 }
+
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+  }
+  .pages{
+    width: 100%;
+    min-height: 100vh;
+  }

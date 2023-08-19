@@ -16,7 +16,7 @@ const Category = () => {
                 <div className="input-side">
                     <div className='search-input'>
                         <i className="bi bi-search"></i>
-                        <input type="search" placeholder='Search...' />
+                        <input type="text" placeholder='Search...' />
                     </div>
 
                     <div className="rooms">

@@ -11,6 +11,9 @@
 }
 .all-categories .categ-box .left-side{
     flex-basis: 20%;
+
+}
+.all-categories .categ-box .left-side .left-sidee-names{
     display: flex;
     flex-direction: column;
     gap: 1rem;
@@ -37,11 +40,52 @@
 .addaktiv{
     font-weight: 700 !important;
 }
-@media(max-width:768px){
+@media(max-width:1135px){
     .all-categories h1{
-        font-size: 3.5rem;
+        font-size: 3rem;
     }
     .all-categories .categ-box .left-side p{
         font-size: 1.6rem;
+    }
+}
+@media(max-width:885px){
+
+    .all-categories .categ-box .left-side{
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        max-width: 100%;
+        width: 100%;
+        z-index: 999;
+        background-color: #fff;
+        border-radius: 0;
+        box-shadow: 0px 0px 1.2rem #07484A;
+    }
+    .all-categories .categ-box .left-side .left-sidee-names{
+        max-width: 90%;
+        min-width: 90%;
+        display:flex;
+        flex-direction: row;
+        overflow-x: scroll;
+    }
+    .all-categories .categ-box .left-side .left-sidee-names::-webkit-scrollbar{
+        display: none;
+    }
+    .all-categories .categ-box .left-side p{
+        font-size: 1.3rem;
+        min-width: fit-content;
+        text-align: center;
+    }
+    .all-categories .right-side{
+        display: flex;
+        justify-content: center;
+    }
+}
+@media(max-width:500px){
+    .all-categories h1{
+        font-size: 2.5rem;
+    }
+    .all-categories .categ-box .left-side p{
+        font-size: 1.3rem;
     }
 }

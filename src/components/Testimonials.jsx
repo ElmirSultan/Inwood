@@ -14,7 +14,7 @@ import "swiper/css/navigation";
 
 
 // import required modules
-import { Autoplay, Navigation } from "swiper";
+import { Autoplay} from "swiper";
 const Testimonials = () => {
     return (
         <div className='testimonials'>
@@ -27,9 +27,9 @@ const Testimonials = () => {
                     delay: 6000,
                     disableOnInteraction: false,
                 }}
-               
-                navigation={true}
-                modules={[Autoplay, Navigation]}
+                
+                
+                modules={[Autoplay]}
                 className="mySwiper"
             >
                 {
